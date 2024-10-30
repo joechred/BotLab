@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'AI Phone Callers '
+title: 'AI Phone Callers 24/7 '
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
