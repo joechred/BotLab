@@ -154,7 +154,7 @@ sections:
       - type: Label
         label: AI Dev
       - type: Label
-        label: Next.js
+        label: Video Editing
       - type: Label
         label: Netlify
       - type: Label
