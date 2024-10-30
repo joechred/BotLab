@@ -5,9 +5,12 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  At our agency, we harness the power of AI to create cutting-edge websites
+  tailored to your needs. Our innovative platform streamlines the design
+  process, ensuring that you get a professional, user-friendly site in record
+  time. With AI-driven features that enhance functionality and optimize user
+  experience, we empower your business to thrive online and stand out in a
+  competitive market.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
