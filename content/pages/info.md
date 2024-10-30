@@ -157,8 +157,6 @@ sections:
         label: Video Editing
       - type: Label
         label: Netlify
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
