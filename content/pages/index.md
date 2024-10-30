@@ -14,7 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: I'm an AI DEVELOPER
-    subtitle: AI is the Future
+    subtitle: >-
+      In a rapidly evolving world, embracing AI is no longer a choice, it's a
+      necessity. As industries transform and opportunities arise, those who
+      adapt will thrive, while others risk being left behind. The future is
+      here—it's time to harness the power of AI now or face the consequences of
+      inaction.
     styles:
       self:
         height: auto
