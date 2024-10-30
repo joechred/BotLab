@@ -1,14 +1,16 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: AI Phone Callers
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  AI phone callers provide efficient 24/7 support for inquiries and scheduling,
+  saving businesses valuable time and money while significantly enhancing
+  customer satisfaction.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/AI CALLER.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
