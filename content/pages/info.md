@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # I Create AI Machines that will **PRINT** you money , In a rapidly
+      ##### I Create AI Machines that will **PRINT** you money , In a rapidly
       evolving world, embracing AI is no longer a choice; it's a necessity. As
       industries transform and opportunities arise, those who adapt will thrive,
       while others risk being left behind. The future is here—it's time to
