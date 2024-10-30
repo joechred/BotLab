@@ -5,10 +5,9 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  we leverage AI to create customized, user-friendly websites quickly and
-  efficiently. Our innovative platform enhances functionality and optimizes user
-  experience, empowering your business to thrive online and stand out in a
-  competitive landscape.
+  we leverage AI to create customized, user-friendly websites quickly, We
+  optimize user experience, empowering your business to thrive online and stand
+  out in a competitive landscape.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
