@@ -116,7 +116,7 @@ sections:
             textAlign: left
     columns: 3
     spacingX: 160
-    spacingY: 15
+    spacingY: 4
     styles:
       self:
         height: auto
