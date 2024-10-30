@@ -4,7 +4,13 @@ title: One more cool project
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: ''
+description: >-
+  AI phone callers are transforming customer service by providing efficient,
+  24/7 support without the need for human intervention. These intelligent
+  systems can handle a variety of tasks, from answering queries to scheduling
+  appointments, ensuring a seamless experience for customers. By automating
+  routine calls, businesses can save time and resources while improving overall
+  satisfaction.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
