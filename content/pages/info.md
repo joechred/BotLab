@@ -22,7 +22,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/ai brain.avif
       altText: Hero image
     styles:
       self:
