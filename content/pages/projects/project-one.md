@@ -5,12 +5,10 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  At our agency, we harness the power of AI to create cutting-edge websites
-  tailored to your needs. Our innovative platform streamlines the design
-  process, ensuring that you get a professional, user-friendly site in record
-  time. With AI-driven features that enhance functionality and optimize user
-  experience, we empower your business to thrive online and stand out in a
-  competitive market.
+  At our agency, we leverage AI to create customized, user-friendly websites
+  quickly and efficiently. Our innovative platform enhances functionality and
+  optimizes user experience, empowering your business to thrive online and stand
+  out in a competitive landscape.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
