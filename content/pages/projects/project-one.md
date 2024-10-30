@@ -10,7 +10,7 @@ description: >-
   out in a competitive landscape.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/website ai.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
