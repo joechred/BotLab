@@ -152,7 +152,7 @@ sections:
       - type: Label
         label: 'WEB 1, 2, soon 3'
       - type: Label
-        label: Microsoft Office
+        label: AI Dev
       - type: Label
         label: Next.js
       - type: Label
