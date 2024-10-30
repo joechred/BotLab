@@ -6,8 +6,8 @@ date: '2022-01-22'
 client: Awesome client
 description: >-
   AI phone callers provide efficient 24/7 support for inquiries and scheduling,
-  saving businesses valuable time while significantly enhancing customer
-  satisfaction.
+  saving businesses valuable time and money while significantly enhancing
+  customer satisfaction.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
