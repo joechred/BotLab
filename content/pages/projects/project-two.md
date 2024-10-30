@@ -5,9 +5,9 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  Our AI chatbots enhance customer service by providing instant responses 24/7
-  and simplifying appointment bookings with tools like Calendly. Streamline your
-  operations and focus on growth with our intelligent solutions!
+  Custom AI chatbots enhance customer service by providing instant responses
+  24/7 and simplifying appointment bookings with tools like calendly. Streamline
+  your operations and focus on growth with our intelligent solutions!
 featuredImage:
   type: ImageBlock
   url: /images/chatbot.jpg
