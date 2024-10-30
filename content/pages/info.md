@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      I Create AI Machines that will **PRINT** you money , In a rapidly evolving
+      world, embracing AI is no longer a choice; it's a necessity. As industries
+      transform and opportunities arise, those who adapt will thrive, while
+      others risk being left behind. The future is here—it's time to harness the
+      power of AI now or face the consequences of inaction.
     media:
       type: ImageBlock
       url: /images/about.jpg
