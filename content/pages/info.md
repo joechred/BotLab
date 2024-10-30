@@ -13,12 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
-      I Create AI Machines that will **PRINT** you money , In a rapidly evolving
-      world, embracing AI is no longer a choice; it's a necessity. As industries
-      transform and opportunities arise, those who adapt will thrive, while
-      others risk being left behind. The future is here—it's time to harness the
-      power of AI now or face the consequences of inaction.
+    text: >+
+      ## I Create AI Machines that will **PRINT** you money , In a rapidly
+      evolving world, embracing AI is no longer a choice; it's a necessity. As
+      industries transform and opportunities arise, those who adapt will thrive,
+      while others risk being left behind. The future is here—it's time to
+      harness the power of AI now or face the consequences of inaction.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
