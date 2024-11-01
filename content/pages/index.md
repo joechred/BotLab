@@ -157,19 +157,21 @@ sections:
     title: The Section Title
     subtitle: The section subtitle
     text: |+
-      \<script type="text/javascript">
+      ```
+      <script type="text/javascript">
         (function(d, t) {
-            var v = d.createElement(t), s = d.getElementsByTagName(t)\[0];
+            var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
             v.onload = function() {
-              window\.voiceflow\.chat.load({
+              window.voiceflow.chat.load({
                 verify: { projectID: '66ac07478560f7699c3ee0c0' },
-                url: 'https\://general-runtime.voiceflow\.com',
+                url: 'https://general-runtime.voiceflow.com',
                 versionID: 'production'
               });
             }
-            v.src = "https\://cdn.voiceflow\.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+            v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
         })(document, 'script');
       </script>
+      ```
 
     elementId: ''
     styles:
