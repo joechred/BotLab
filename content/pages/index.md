@@ -156,13 +156,21 @@ sections:
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      \<script type="text/javascript">
+        (function(d, t) {
+            var v = d.createElement(t), s = d.getElementsByTagName(t)\[0];
+            v.onload = function() {
+              window\.voiceflow\.chat.load({
+                verify: { projectID: '66ac07478560f7699c3ee0c0' },
+                url: 'https\://general-runtime.voiceflow\.com',
+                versionID: 'production'
+              });
+            }
+            v.src = "https\://cdn.voiceflow\.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+        })(document, 'script');
+      </script>
+
     elementId: ''
     styles:
       self:
